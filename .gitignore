@@ -1,7 +1,11 @@
 dist/
 bin/
 public/
-node_modules/
+/node_modules
+/.pnp
+.pnp.js
+.yarn/cache
+.yarn/install-state.gz
 npm-debug.log
 .DS_Store
 .tern-project
